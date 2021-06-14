@@ -193,11 +193,16 @@ h1,h2,h3,h4,h5,h6{
     {
         position: static;
         transform: rotate(0);
-        width: 60%;
+        width: 50%;
+        margin-right: 50%;
     }
     .testimonials-image
     {
-        width: 15%;
+        width: 30%;
+    }
+    #press img
+    {
+        width:30%;
     }
 }
 
